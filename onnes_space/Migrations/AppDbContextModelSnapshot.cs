@@ -306,8 +306,16 @@ namespace onnes_space.Migrations
                     b.Property<string>("image")
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("link")
-                        .IsRequired()
+                    b.Property<string>("link1")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("link2")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("link3")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("link4")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("name")

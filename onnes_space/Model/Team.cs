@@ -10,7 +10,10 @@ namespace onnes_space.Model
         public string name { get; set; }
         public string designation { get; set; }
         public string about { get; set; }
-        public string link { get; set; }
+        public string? link1 { get; set; }
+        public string? link2 { get; set; }
+        public string? link3 { get; set; }
+        public string? link4 { get; set; }
         [NotMapped]
         public IFormFile imageFile { get; set; }
         public string? image { get; set; }

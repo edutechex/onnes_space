@@ -81,9 +81,10 @@ F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\staticwebassets.pack.j
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\staticwebassets.build.json
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\staticwebassets.development.json
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\scopedcss\bundle\onnes_space.styles.css
-F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\onnes_space.csproj.CopyComplete
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\onnes_space.dll
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\refint\onnes_space.dll
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\onnes_space.pdb
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\onnes_space.genruntimeconfig.cache
 F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\ref\onnes_space.dll
+F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\onnes_space.sourcelink.json
+F:\onnes_space\onnes_space\onnes_space\obj\Release\net6.0\onnes_sp.48F57E11.Up2Date

@@ -86,8 +86,11 @@ namespace onnes_space.Controllers
                 T.name = team.name;
                 T.designation = team.designation;
                 T.about =team.about;
-                T.link = team.link;
-                    if (team.imageFile != null)
+                T.link1 = team.link1;
+                T.link2 = team.link2;
+                T.link3 = team.link3;
+                T.link4 = team.link4;
+                if (team.imageFile != null)
                 {
                     T.image = await UploadImage(team.imageFile);
                 }
@@ -138,7 +141,10 @@ namespace onnes_space.Controllers
                     T.name = team.name;
                     T.designation = team.designation;
                     T.about = team.about;
-                    T.link = team.link;
+                    T.link1 = team.link1;
+                    T.link2 = team.link2;
+                    T.link3 = team.link3;
+                    T.link4 = team.link4;
                     if (team.imageFile != null)
                     {
                         T.image = await UploadImage(team.imageFile);

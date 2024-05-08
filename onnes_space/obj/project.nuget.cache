@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xzq/N0Ux7DG3MnU1QzdaZMuzyygMSHo5VMU6vA9GqNFzTP0frZ6voLX1Kvl9OQWTg+J6RYZKvVdDBDyTQJ7nmg==",
+  "dgSpecHash": "BopAqL7rsTq0qbaOKVb4Iv6M5w8zpjQn+D2Qc40tauTHKgT0OPZOY/UsmB9wzSinr+KLdqhPBZ+jnKrt28dgZQ==",
   "success": true,
   "projectFilePath": "F:\\onnes_space\\onnes_space\\onnes_space\\onnes_space.csproj",
   "expectedPackageFiles": [
@@ -70,7 +70,11 @@
     "C:\\Users\\HP\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\HP\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\HP\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
